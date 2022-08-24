@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&display=swap');
+*{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    color:rgb(242, 95, 58);
+    color: rgb(35, 44, 81);
+    list-style: none;
+    background-attachment:fixed;
+    background-image: url(../imagenes/bg-simplify-section-desktop.svg);
+    padding: 0px, 50px;
+}
+
+body{
+    font-size: 16px;
+    font-weight: 400,500,700;
+    padding: 0px, 50px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2%;
+}
+
+nav{
+    margin: 0%
+
+}
+
+ul{
+    padding: 0%;
+}
+nav ul {
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: 500;
+    align-items:center;
+    justify-items: center;
+    text-align: center;
+    width: 100%;
+
+}
+.nav{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    padding: 1%;
+    justify-content: space-between;
+    width: 100%;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.section1{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+.TopLeft{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+h1{
+    font-size: 700;
+}
+
+.AboutUs{
+    display: flex;
+    justify-content: space-around;
+}
+.testimonials{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 100px;
+}
+
+button{
+    display: flex;
+    text-align: center;
+    background-color: rgb(242, 95, 58);
+    border-radius: 45px;
+    align-items: center;
+}
+.comments{
+    display: flex;
+    padding: 3%;
+    border-color: black;
+}
+.AliBravo .Anisha{
+    display: flex;
+    flex-direction: column;
+    border-width: 10px;
+    border-color: black;
+    align-items: center;
+    padding: 3%;
+}
+.fotoperfil{
+    width: 75px;
+    align-items: center;
+}
+footer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    padding: 0px, 50px;
+
+}
+.naranja{
+    background: #F3613C;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px, 50px;
+    align-items: center;
+    height: 65px;
+    top: 0;
+    margin: 0;
+}
+
+
+.gris1 .navbar {
+    background-color: rgb(143, 148, 167);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px, 50px;
+    align-items: center;
+    height: 65px;
+    top: 0;
+    left: 0;
+    width: 100%
+}
+.gris1{
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    background-color: rgb(143, 148, 167);
+
+}
+
+.form{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+
+}
+.links .nav {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+}
+.gris2{
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(143, 148, 167);
+    padding: 0px,50px;
+}
